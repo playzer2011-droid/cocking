@@ -1,0 +1,189 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.cotainer {
+  width: 100%;
+  max-width: 1440px;
+}
+li {
+  list-style-type: none;
+}
+.nav__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav__ul {
+  display: flex;
+  align-items: center;
+  gap: 94px;
+  padding-right: 40px;
+}
+.nav__a {
+  color: red;
+}
+.nav__img {
+  padding-left: 90px;
+}
+.hero__div {
+  background-image: url(./imagese/Rectangle\ 48.png);
+}
+.hero__p {
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  padding-top: 73px;
+}
+.hero__h1 {
+  color: white;
+  text-align: center;
+  padding: 7px 0;
+}
+.hero--p {
+  color: white;
+  text-align: center;
+}
+.hero--div {
+  text-align: center;
+  gap: 34px;
+  padding-bottom: 146px;
+  padding-top: 54px;
+}
+.hero__play {
+  padding: 16px 58.5px;
+  border-radius: 20px;
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.hero__app {
+  padding: 16px 58.5px;
+  border-radius: 20px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.box {
+  text-align: center;
+  position: relative;
+  bottom: 188px;
+}
+.extornol__h2 {
+  font-size: 44px;
+  padding-top: 72.02px;
+}
+.servike__div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 100px;
+}
+.servike__p {
+  color: red;
+  font-size: 24px;
+}
+.servike__h1 {
+  font-size: 40px;
+}
+.servike--p {
+  font-size: 24px;
+  color: #737373;
+}
+div {
+  padding-right: 66px;
+}
+.servike__img {
+  padding-left: 100px;
+}
+.futer__div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 100px;
+}
+.futer__p {
+  color: red;
+  font-size: 24px;
+}
+.futer__h1 {
+  font-size: 40px;
+}
+.futer--p {
+  font-size: 24px;
+  color: #737373;
+}
+.futer--div {
+  padding-left: 200px;
+}
+.futer__img {
+  margin-right: -100px;
+}
+.futer__futer__div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 100px;
+}
+.futer__futer__p {
+  color: red;
+  font-size: 24px;
+}
+.futer__futer__h1 {
+  font-size: 40px;
+}
+.futer__futer--p {
+  font-size: 24px;
+  color: #737373;
+}
+.futer__futer--div {
+  padding-right: 66px;
+}
+.futer__futer__img {
+  padding-left: 100px;
+}
+.footer__div {
+  background-image: url(./imagese/Rectangle\ 47.png);
+  width: 1520px;
+  padding-top: 130px;
+  padding-bottom: 130px;
+  text-align: center;
+}
+.footer__h1 {
+  color: white;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+.footer__p {
+  color: white;
+  font-size: 24px;
+  padding-bottom: 60px;
+}
+.footer--div {
+  gap: 16px;
+}
+.footer__btn {
+  padding: 18px 31px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  background-color: red;
+}
+.footer__app {
+  padding: 16px 40px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: white;
+}
+.footer__card__div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 130px;
+  margin-right: 130px;
+}
+.footer__card--div {
+  gap: 24px;
+}
